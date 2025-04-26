@@ -1,5 +1,7 @@
+'''
 #EJERCICIO 1):
 print("Hola mundo")
+'''
 
 '''
 # EJERCICIO 2):

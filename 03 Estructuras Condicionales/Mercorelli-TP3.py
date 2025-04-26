@@ -1,3 +1,4 @@
+'''
 import random
 from statistics import mode, median, mean
 
@@ -7,6 +8,7 @@ edad = int(input("Ingresa tu edad: "))
 # Verifica si el usuario es mayor de edad
 if edad >= 18:
     print("Es mayor de edad")
+'''
 
 '''
 # EJERCICIO 2):
